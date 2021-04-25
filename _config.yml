@@ -1,0 +1,9 @@
+title: Un sito a caso
+description: Un sito a caso. Fine.
+url: https://indrjo.github.io/
+baseurl: ""
+
+email: dedej.indrjo@gmail.com
+github_username:  indrjo
+
+theme: jekyll-theme-cayman
